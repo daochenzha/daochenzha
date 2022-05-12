@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm [Daochen Zha (查道琛 in Chinese)!](https://dczha.com/) 👋👋👋
+
+🌱 I’m currently a PhD student in CS@Rice
+
+🔭 I’m currently working on machine learning and data mining, particularly on Automated Machine Learning (AutoML) and Reinforcement Learning (RL)
+
+😄 I love developing machine learning open-source projects. I’m looking to collaborate on any fun projects.
+
+
+
 
 <!--
 **daochenzha/daochenzha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
