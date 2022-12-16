@@ -2,9 +2,9 @@
 
 🌱 I’m currently a PhD student in CS@Rice
 
-🔭 I’m currently working on machine learning and data mining, particularly on Automated Machine Learning (AutoML) and Reinforcement Learning (RL)
+🔭 I’m currently working on machine learning and data mining, particularly on Reinforcement Learning (RL) and Automated Machine Learning (AutoML)
 
-😄 I love developing machine learning open-source projects. I’m looking to collaborate on any fun projects.
+😄 I love developing machine learning open-source projects. I’m looking forward to collaborate on any fun projects.
 
 
 
