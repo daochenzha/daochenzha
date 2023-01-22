@@ -15,11 +15,11 @@
 | [DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning](https://github.com/kwai/DouZero)  | [ICML'21 Paper](https://arxiv.org/abs/2106.06135) \| [Demo](https://www.douzero.org/) \| [知乎](https://zhuanlan.zhihu.com/p/526723604) \| [Video](https://youtu.be/inHIi8sej7Y) |
 | [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://github.com/datamllab/rlcard) | [IJCAI'20 Paper](https://www.ijcai.org/proceedings/2020/0764.pdf) \| [Demo](https://www.douzero.org/) \| [知乎](https://zhuanlan.zhihu.com/p/526723604) \| [Video](https://youtu.be/krK2jmSdKZc) |
 | [RLCard-Showdown: Frontend for DouZero and RLCard](https://github.com/datamllab/rlcard-showdown) | [Demo](https://www.douzero.org/) |
+| [Awesome Game AI Resources on Multi-agent Learning](https://github.com/datamllab/awesome-game-ai)  |   |
 | [TODS: Automated Time-series Outlier Detection System](https://github.com/datamllab/tods) | [AAAI'21 Paper](https://arxiv.org/abs/2009.09822) \| [Media](https://medium.com/towards-data-science/tods-detecting-outliers-from-time-series-data-2d4bd2e91381) \| [Video](https://youtu.be/H0bBXuDUe7s) |
 | [AutoVideo: An Automated Video Action Recognition System](https://github.com/datamllab/autovideo)  | [IJCAI'22 Paper](https://arxiv.org/abs/2108.04212) \| [Media](https://towardsdatascience.com/autovideo-an-automated-video-action-recognition-system-43198beff99d) \| [Video](https://youtu.be/BEInjBjeIuo) |
 | [BED: A Real-Time Object Detection System for Edge Devices](https://github.com/datamllab/BED_main) | [CIKM'22 Best Demo Paper](https://arxiv.org/abs/2202.07503) \| [Video](https://youtu.be/0tY31_cECCA) |
 | [PyODDS: An End-to-end Outlier Detection System](https://github.com/datamllab/pyodds) | [WWW'20 Paper](https://arxiv.org/abs/2003.05602) |
-| [Awesome Game AI Resources on Multi-agent Learning](https://github.com/datamllab/awesome-game-ai)  |   |
 | [DreamShard: Generalizable Embedding Table Placement for Recommender Systems](https://github.com/daochenzha/dreamshard) | [NeurIPS'22 Paper](https://arxiv.org/abs/2210.02023) |
 | [AutoShard: Automated Embedding Table Sharding for Recommender Systems](https://github.com/daochenzha/autoshard) | [KDD'22 Paper](https://arxiv.org/abs/2208.06399) |
 | [Towards Automated Over-Sampling for Imbalanced Classification](https://github.com/daochenzha/autosmote) | [CIKM'22 Paper](https://arxiv.org/abs/2208.12433) |
