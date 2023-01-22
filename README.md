@@ -6,7 +6,7 @@
 
 😄 I love developing machine learning open-source projects. I’m looking forward to collaborate on any fun projects.
 
-I have made a YouTube video to share [my journey of open-source projects](https://youtu.be/UBn9ks8fj80).
+🤔 I have made a YouTube video to share [my journey of open-source projects](https://youtu.be/UBn9ks8fj80).
 
 ### Popular Projects
 
