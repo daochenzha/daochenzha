@@ -12,7 +12,7 @@
 
 | Project  | Resources |
 |---|---|
-| [Awesome-Data-Centric-AI](https://github.com/daochenzha/data-centric-AI) | [Survey Paper](https://arxiv.org/abs/2303.10158) \| [Perspective Paper](https://arxiv.org/abs/2301.04819) |
+| [Awesome Data Centric AI Resources](https://github.com/daochenzha/data-centric-AI) | [Survey Paper](https://arxiv.org/abs/2303.10158) \| [Perspective Paper](https://arxiv.org/abs/2301.04819) |
 | [DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning](https://github.com/kwai/DouZero)  | [ICML'21 Paper](https://arxiv.org/abs/2106.06135) \| [Demo](https://www.douzero.org/) \| [知乎](https://zhuanlan.zhihu.com/p/526723604) \| [Video](https://youtu.be/inHIi8sej7Y) |
 | [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://github.com/datamllab/rlcard) | [IJCAI'20 Paper](https://www.ijcai.org/proceedings/2020/0764.pdf) \| [Demo](https://www.douzero.org/) \| [知乎](https://zhuanlan.zhihu.com/p/526723604) \| [Video](https://youtu.be/krK2jmSdKZc) |
 | [RLCard-Showdown: Frontend for DouZero and RLCard](https://github.com/datamllab/rlcard-showdown) | [Demo](https://www.douzero.org/) |
