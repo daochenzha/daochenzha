@@ -8,6 +8,9 @@
 
 🤔 I have made a YouTube video to share [my journey of open-source projects](https://youtu.be/UBn9ks8fj80).
 
+:loudspeaker: News: Please check out our [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
+
+
 ### Popular Projects
 
 | Project  | Resources |
