@@ -10,6 +10,9 @@
 
 :loudspeaker: News: Please check out our [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
 
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=daochenzha&include_orgs=true&show_icons=true&bg_color=00000000" />
+
+
 
 ### Popular Projects
 
