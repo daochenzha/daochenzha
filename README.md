@@ -2,7 +2,7 @@
 
 🌱 I’m currently a PhD student in CS@Rice
 
-🔭 I’m currently working on machine learning and data mining, particularly on Reinforcement Learning (RL) and Data-centric AI
+🔭 I’m working on machine learning and data mining, particularly on Reinforcement Learning (RL) and Data-centric AI
 
 😄 I love developing open-source projects. I’m looking forward to collaborate on any fun projects.
 
@@ -18,13 +18,13 @@
 
 | Project  | Resources |
 |---|---|
-| [Awesome Data-centric AI Resources](https://github.com/daochenzha/data-centric-AI) | [Survey Paper](https://arxiv.org/abs/2303.10158) \| [Perspective Paper](https://arxiv.org/abs/2301.04819) |
-| [DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning](https://github.com/kwai/DouZero)  | [ICML'21 Paper](https://arxiv.org/abs/2106.06135) \| [Demo](https://www.douzero.org/) \| [知乎](https://zhuanlan.zhihu.com/p/526723604) \| [Video](https://youtu.be/inHIi8sej7Y) |
-| [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://github.com/datamllab/rlcard) | [IJCAI'20 Paper](https://www.ijcai.org/proceedings/2020/0764.pdf) \| [Demo](https://www.douzero.org/) \| [知乎](https://zhuanlan.zhihu.com/p/526723604) \| [Video](https://youtu.be/krK2jmSdKZc) |
+| [Awesome Data-centric AI Resources](https://github.com/daochenzha/data-centric-AI) | [Survey Paper](https://arxiv.org/abs/2303.10158) \| [Perspective Paper](https://arxiv.org/abs/2301.04819) \| [知乎](https://zhuanlan.zhihu.com/p/617057227) \| [Blog](https://medium.com/towards-data-science/what-are-the-data-centric-ai-concepts-behind-gpt-models-a590071bb727) |
+| [DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning](https://github.com/kwai/DouZero)  | [ICML'21 Paper](https://arxiv.org/abs/2106.06135) \| [Demo](https://www.douzero.org/) \| [知乎](https://zhuanlan.zhihu.com/p/526723604) \| [Video](https://youtu.be/inHIi8sej7Y) \| [Blog](https://medium.com/towards-data-science/douzero-mastering-doudizhu-with-reinforcement-learning-864363549c6a) |
+| [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://github.com/datamllab/rlcard) | [IJCAI'20 Paper](https://www.ijcai.org/proceedings/2020/0764.pdf) \| [Demo](https://www.douzero.org/) \| [知乎](https://zhuanlan.zhihu.com/p/526723604) \| [Video](https://youtu.be/krK2jmSdKZc) \| [Blog](https://medium.com/towards-data-science/rlcard-building-your-own-poker-ai-in-3-steps-398aa864a0db) |
 | [RLCard-Showdown: Frontend for DouZero and RLCard](https://github.com/datamllab/rlcard-showdown) | [Demo](https://www.douzero.org/) |
 | [Awesome Game AI Resources on Multi-agent Learning](https://github.com/datamllab/awesome-game-ai)  |   |
-| [TODS: Automated Time-series Outlier Detection System](https://github.com/datamllab/tods) | [AAAI'21 Paper](https://arxiv.org/abs/2009.09822) \| [Media](https://medium.com/towards-data-science/tods-detecting-outliers-from-time-series-data-2d4bd2e91381) \| [Video](https://youtu.be/H0bBXuDUe7s) |
-| [AutoVideo: An Automated Video Action Recognition System](https://github.com/datamllab/autovideo)  | [IJCAI'22 Paper](https://arxiv.org/abs/2108.04212) \| [Media](https://towardsdatascience.com/autovideo-an-automated-video-action-recognition-system-43198beff99d) \| [Video](https://youtu.be/BEInjBjeIuo) |
+| [TODS: Automated Time-series Outlier Detection System](https://github.com/datamllab/tods) | [AAAI'21 Paper](https://arxiv.org/abs/2009.09822) \| [Blog](https://medium.com/towards-data-science/tods-detecting-outliers-from-time-series-data-2d4bd2e91381) \| [Video](https://youtu.be/H0bBXuDUe7s) |
+| [AutoVideo: An Automated Video Action Recognition System](https://github.com/datamllab/autovideo)  | [IJCAI'22 Paper](https://arxiv.org/abs/2108.04212) \| [Blog](https://towardsdatascience.com/autovideo-an-automated-video-action-recognition-system-43198beff99d) \| [Video](https://youtu.be/BEInjBjeIuo) |
 | [BED: A Real-Time Object Detection System for Edge Devices](https://github.com/datamllab/BED_main) | [CIKM'22 Best Demo Paper](https://arxiv.org/abs/2202.07503) \| [Video](https://youtu.be/0tY31_cECCA) |
 | [PyODDS: An End-to-end Outlier Detection System](https://github.com/datamllab/pyodds) | [WWW'20 Paper](https://arxiv.org/abs/2003.05602) |
 | [DreamShard: Generalizable Embedding Table Placement for Recommender Systems](https://github.com/daochenzha/dreamshard) | [NeurIPS'22 Paper](https://arxiv.org/abs/2210.02023) |
