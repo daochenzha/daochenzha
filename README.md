@@ -19,6 +19,7 @@
 | Project  | Resources |
 |---|---|
 | [Awesome Data-centric AI Resources](https://github.com/daochenzha/data-centric-AI) | [Survey Paper](https://arxiv.org/abs/2303.10158) \| [Perspective Paper](https://arxiv.org/abs/2301.04819) \| [知乎](https://zhuanlan.zhihu.com/p/617057227) \| [Blog](https://medium.com/towards-data-science/what-are-the-data-centric-ai-concepts-behind-gpt-models-a590071bb727) |
+| [NeuroShard: Pre-train and Search: Efficient Embedding Table Sharding with Pre-trained Neural Cost Models](https://github.com/daochenzha/neuroshard) | [MLSys'23 Paper](https://arxiv.org/abs/2305.01868) |
 | [DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning](https://github.com/kwai/DouZero)  | [ICML'21 Paper](https://arxiv.org/abs/2106.06135) \| [Demo](https://www.douzero.org/) \| [知乎](https://zhuanlan.zhihu.com/p/526723604) \| [Video](https://youtu.be/inHIi8sej7Y) \| [Blog](https://medium.com/towards-data-science/douzero-mastering-doudizhu-with-reinforcement-learning-864363549c6a) |
 | [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://github.com/datamllab/rlcard) | [IJCAI'20 Paper](https://www.ijcai.org/proceedings/2020/0764.pdf) \| [Demo](https://www.douzero.org/) \| [知乎](https://zhuanlan.zhihu.com/p/526723604) \| [Video](https://youtu.be/krK2jmSdKZc) \| [Blog](https://medium.com/towards-data-science/rlcard-building-your-own-poker-ai-in-3-steps-398aa864a0db) |
 | [RLCard-Showdown: Frontend for DouZero and RLCard](https://github.com/datamllab/rlcard-showdown) | [Demo](https://www.douzero.org/) |
