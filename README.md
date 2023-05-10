@@ -1,6 +1,6 @@
 ### Hi there, I'm [Daochen Zha (查道琛 in Chinese)!](https://dczha.com/) 👋👋👋
 
-🌱 I’m currently a PhD student in CS@Rice
+🌱 I’m currently a Machine Learning Engineer at Airbnb. I obtained my PhD from CS@Rice
 
 🔭 I’m working on machine learning and data mining, particularly on Reinforcement Learning (RL) and Data-centric AI
 
