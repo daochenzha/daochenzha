@@ -18,6 +18,7 @@
 
 | Project  | Resources |
 |---|---|
+| [FinGPT: Democratizing Internet-scale Data for Financial Large Language Models](https://github.com/AI4Finance-Foundation/FinGPT) | [Paper](https://arxiv.org/abs/2307.10485) \| [Website](https://ai4finance-foundation.github.io/FinNLP/)
 | [OpenGSL: A Comprehensive Benchmark for Graph Structure Learning](https://github.com/OpenGSL/OpenGSL) | [Paper](https://arxiv.org/abs/2306.10280) \| [知乎](https://zhuanlan.zhihu.com/p/642738341)
 | [Awesome Data-centric AI Resources](https://github.com/daochenzha/data-centric-AI) | [Survey Paper](https://arxiv.org/abs/2303.10158) \| [Perspective Paper](https://arxiv.org/abs/2301.04819) \| [知乎](https://zhuanlan.zhihu.com/p/617057227) \| [Blog](https://medium.com/towards-data-science/what-are-the-data-centric-ai-concepts-behind-gpt-models-a590071bb727) |
 | [NeuroShard: Pre-train and Search: Efficient Embedding Table Sharding with Pre-trained Neural Cost Models](https://github.com/daochenzha/neuroshard) | [MLSys'23 Paper](https://arxiv.org/abs/2305.01868) |
