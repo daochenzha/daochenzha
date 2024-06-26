@@ -8,6 +8,8 @@
 
 🤔 I have made a YouTube video to share [my journey of open-source projects](https://youtu.be/UBn9ks8fj80).
 
+:loudspeaker: News: Please check out our open-sourced [Large Time Series Model (LTSM)](https://github.com/daochenzha/ltsm)!
+
 :loudspeaker: News: Please check out our [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
 
 <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=daochenzha&include_orgs=true&show_icons=true&bg_color=00000000" />
@@ -18,6 +20,7 @@
 
 | Project  | Resources |
 |---|---|
+| [Understanding Different Design Choices in Training Large Time Series Models](https://github.com/daochenzha/ltsm) | [Paper](https://arxiv.org/abs/2406.14045) 
 | [DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research](https://github.com/ynchuang/DiscoverPath) | [Paper](https://arxiv.org/abs/2309.01808) \| [Demo](http://www.discoverpath.top/) \| [Video](https://youtu.be/xcDzBl7jp-s) |
 | [FinGPT: Democratizing Internet-scale Data for Financial Large Language Models](https://github.com/AI4Finance-Foundation/FinGPT) | [Paper](https://arxiv.org/abs/2307.10485) \| [Website](https://ai4finance-foundation.github.io/FinNLP/) |
 | [OpenGSL: A Comprehensive Benchmark for Graph Structure Learning](https://github.com/OpenGSL/OpenGSL) | [Paper](https://arxiv.org/abs/2306.10280) \| [知乎](https://zhuanlan.zhihu.com/p/642738341) |
